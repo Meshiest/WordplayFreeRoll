@@ -1,0 +1,9 @@
+{
+  "name": "FreeRoll",
+  "version_number": "0.0.0",
+  "website_url": "https://github.com/Meshiest/WordplayFreeRoll",
+  "description": "Grants infinite free-rerolls",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
